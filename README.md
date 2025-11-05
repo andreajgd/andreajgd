@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/andreajgd/andreajgd/main/assets/ponyo.gif" height="250" alt="ponyo gif" />
 </div>
 
-<h1 align="center">Hola, soy Andrea 𓆤</h1>
+<h1 align="center">Hola, soy Andrea</h1>
 
 <p align="center">
   <em>A veces funciona, a veces no, pero algo siempre se aprende.</em>
