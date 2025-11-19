@@ -4,13 +4,12 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/c4/64/34/c46434fb9b4f683e5ea29d0e3f79d7ef.gif"height="100" />
 </p>
-<h1 align="center">Hola, soy Andrea</h1>
+<h1 align="center">Holaa, soy Andrea</h1>
 
 <p align="center">
   <em>A veces funciona, a veces no, pero algo siempre se aprende.</em>
 </p>
 
----
 
 ## 🛠️ Lenguajes y Herramientas
 
@@ -24,24 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
----
 
 ## 📊 Lenguajes más usados
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreajgd&layout=compact&hide=jupyter%20notebook,papyrus&hide_border=false&cache_seconds=60&title_color=7a9bff&text_color=cdd9ff&bg_color=0d1117" height="180" alt="most used languages graph"/>
 </div>
-
-
----
-
-<div align="center">
-  ╱|、<br>
-  (˚ˎ 。7  <br>
-  |、˜〵   <br>
-  じしˍ,)ノ  
-</div>
-
-<p align="center">
-  <em>…y sí, escuchen Bocanada.</em>
-</p>
