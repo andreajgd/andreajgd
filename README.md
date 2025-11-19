@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5d/9e/c9/5d9ec9f98450ca4ee9c573c0d888f1a2.gif" height="250" alt="ponyo gif" />
+  <img src="https://i.pinimg.com/originals/5d/9e/c9/5d9ec9f98450ca4ee9c573c0d888f1a2.gif" height="250" alt="fresitas gif" />
 </div>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c4/64/34/c46434fb9b4f683e5ea29d0e3f79d7ef.gif"height="100" />
+</p>
 <h1 align="center">Hola, soy Andrea</h1>
 
 <p align="center">
