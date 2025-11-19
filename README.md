@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://raw.githubusercontent.com/andreajgd/andreajgd/main/assets/ponyo.gif" height="250" alt="ponyo gif" />
-</div>
+</div>-->
 
 <h1 align="center">Hola, soy Andrea</h1>
 
