@@ -27,5 +27,11 @@
 ## 📊 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreajgd&layout=compact&hide=jupyter%20notebook,papyrus&hide_border=false&cache_seconds=60&title_color=7a9bff&text_color=cdd9ff&bg_color=0d1117" height="180" alt="most used languages graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreajgd&theme=tokyonight" />
 </div>
+
+## 📅 Actividad reciente
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreajgd&theme=tokyonight" />
+</p>
